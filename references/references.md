@@ -13,7 +13,7 @@ Provides a structured approach for using AI in literature-review synthesis and i
 
 ### 2. Artificial Intelligence Tools in Biomedical Research: Part 1—Literature Search and Knowledge Mining
 
-Sen, 2026, *Antioxidants & Redox Signaling*
+Chandan K. Sen, 2026, *Antioxidants & Redox Signaling*
 [Paper / DOI](https://doi.org/10.1177/15230864251405885)
 
 Reviews AI tools for biomedical literature searching and knowledge mining, supporting the cross-disciplinary focus of this project.
