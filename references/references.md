@@ -59,7 +59,7 @@ Presents a citation-informed document representation method useful for scientifi
 
 ### 8. OpenAlex: A Fully-Open Index of Scholarly Works, Authors, Venues, Institutions, and Concepts
 
-Priem et al., 2022
+Jason Priem et al., 2022
 [Paper](https://arxiv.org/abs/2205.01833)
 
 Introduces OpenAlex, an open scholarly knowledge graph useful for large-scale literature and citation analysis.
