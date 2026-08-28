@@ -27,7 +27,7 @@ Examines responsible and critical use of AI during literature reviews, highlight
 
 ### 4. Our AI-Powered Discoveries Are Trapped in a Predigital System
 
-Chew, 2026, *Journal of Medical Internet Research*
+Boon-How Chew, 2026, *Journal of Medical Internet Research*
 [Paper / DOI](https://doi.org/10.2196/96018)
 
 Discusses challenges associated with AI-powered academic discovery and the infrastructure surrounding scholarly communication.
