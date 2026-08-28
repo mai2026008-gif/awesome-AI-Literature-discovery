@@ -52,8 +52,8 @@ Introduces a large open scholarly corpus containing papers, references, abstract
 
 ### 7. SPECTER: Document-level Representation Learning using Citation-informed Transformers
 
-Cohan et al., 2020, *ACL*
-[Paper / DOI](https://doi.org/10.18653/v1/2020.acl-main.447)
+Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey, Daniel Weld, 2020, Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL).
+[Paper / DOI](https://doi.org/10.18653/v1/2020.acl-main.207)
 
 Presents a citation-informed document representation method useful for scientific-paper similarity and retrieval.
 
